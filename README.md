@@ -1,6 +1,7 @@
 # Open-Science-Community-in-Egypt
 ## Welcome :mega: :tada:
-I am glad that you interesting in our project and your most welcome.  مَرْحَبًا - أهلاً - سلام
+I am glad that you interesting in our project and your most welcome. 
+مَرْحَبًا - أهلاً - سلام
 
 This document will give you all the information about our project
 ## Vision

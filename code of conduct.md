@@ -1,6 +1,6 @@
-Code of Conduct for Open Science Community in Egypt
- 
--        # Introduction
+# Code of Conduct for Open Science Community in Egypt
+
+# Introduction
 
 Open Science Community in Egypt raises awareness of knowledge about open Science by “organize, promoting, and facilitating open science events to enable all participants, members, and non-members, to learn about, share, and discuss open science practices”
 This Code of Conduct (CoC) aims to enable an environment in which diverse individuals can collaborate and interact with mutual respect. We recognize a shared responsibility to create and maintain that environment for the benefit of all.
@@ -26,7 +26,7 @@ Be receptive to constructive comments and criticism.
 Show empathy towards other community members.
 Be respectful of others' positions, skills, commitments, and efforts.
  
--        Reporting/ Speaking Up
+## Reporting/ Speaking Up
  
 If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to 
 Reporting is possible through a form on the website. The complaint is sent without revealing the complainant's identity.
@@ -34,10 +34,7 @@ The target of the complaint will not be involved in handling or resolving the in
 
 
 
-
-
-
--        #Enforcement
+## Enforcement
  
 Participants who are asked to stop unacceptable behavior are expected to comply immediately. The Ethics Charter Committee retains the right to take appropriate actions, including:
 1.     Mediation between complainant and alleged perpetrator(s), to reach an amicable resolution.
@@ -47,7 +44,8 @@ Participants who are asked to stop unacceptable behavior are expected to comply 
 The Ethics Charter Committee will also discuss with the complainant whether they wish to contact the confidential advisor(s) from outside the community.
 The alleged perpetrator(s) will be notified of a complaint as soon as possible, and be given a chance to respond to the complaint.
  
--        References
+ 
+ ### References
  American Library Association code of conduct
 Community Covenant v1.0.
 Society for the Improvement of Psychological Science code of conduct

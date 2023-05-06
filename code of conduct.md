@@ -1,6 +1,6 @@
 Code of Conduct for Open Science Community in Egypt
  
--        #Introduction
+-        # Introduction
 
 Open Science Community in Egypt raises awareness of knowledge about open Science by “organize, promoting, and facilitating open science events to enable all participants, members, and non-members, to learn about, share, and discuss open science practices”
 This Code of Conduct (CoC) aims to enable an environment in which diverse individuals can collaborate and interact with mutual respect. We recognize a shared responsibility to create and maintain that environment for the benefit of all.

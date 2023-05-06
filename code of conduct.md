@@ -1,6 +1,6 @@
 Code of Conduct for Open Science Community in Egypt
  
--        Introduction
+-        #Introduction
 
 Open Science Community in Egypt raises awareness of knowledge about open Science by “organize, promoting, and facilitating open science events to enable all participants, members, and non-members, to learn about, share, and discuss open science practices”
 This Code of Conduct (CoC) aims to enable an environment in which diverse individuals can collaborate and interact with mutual respect. We recognize a shared responsibility to create and maintain that environment for the benefit of all.
@@ -37,7 +37,7 @@ The target of the complaint will not be involved in handling or resolving the in
 
 
 
--        Enforcement
+-        #Enforcement
  
 Participants who are asked to stop unacceptable behavior are expected to comply immediately. The Ethics Charter Committee retains the right to take appropriate actions, including:
 1.     Mediation between complainant and alleged perpetrator(s), to reach an amicable resolution.

@@ -1,5 +1,11 @@
 # Open-Science-Community-in-Egypt
 ## Welcome :mega: :tada:
+<a href="https://gitmoji.dev">
+  <img
+    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+    alt="Gitmoji"
+  />
+</a>
 I am glad that you interesting in our project and your most welcome. 
 مَرْحَبًا - أهلاً - سلام
 

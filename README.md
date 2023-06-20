@@ -1,7 +1,7 @@
    ![مجتمع العلوم المفتوحة في مصر (3)](https://github.com/doaamkader/Open-Science-Community-in-Egypt/assets/40231919/5cd04443-69b8-4cab-a9d0-6ca65a5a91b3)  
 
 
-# Open-Science-Community-in-Egypt
+# Open Science Community in Egypt
 
 ## Welcome :mega: :tada:
 

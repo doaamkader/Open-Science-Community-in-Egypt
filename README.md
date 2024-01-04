@@ -33,3 +33,9 @@ Website: https://osc-international.com/osc-egypt/
 Linkedin: https://www.linkedin.com/company/97899350/admin/feed/posts/ 
 
 E-mail: opensciegypt@gmail.com 
+
+ Facebook: https://lnkd.in/dfF9uj9x
+
+ Youtube: https://lnkd.in/dtepCZe3
+ 
+ Zenodo: https://lnkd.in/d4Pzmaws

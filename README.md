@@ -39,3 +39,5 @@ E-mail: opensciegypt@gmail.com
  Youtube: https://lnkd.in/dtepCZe3
  
  Zenodo: https://lnkd.in/d4Pzmaws
+ 
+Instagram: https://www.instagram.com/oscegypt
